@@ -1,0 +1,22 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
+
+button {
+  color: #fff;
+  background-color: #eb6100;
+  border-radius: 100vh;
+  width: 20%;
+  height: 5%;
+}
+
+button:hover {
+  color: #fff;
+  background: #f56500;
+  
+}
+
